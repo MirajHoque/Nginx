@@ -30,3 +30,11 @@
 2024/02/05 13:06:57 [error] 1108#9584: *29 CreateFile() "C:/Users/USER/Documents/nginx/mysite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
 2024/02/05 13:14:26 [notice] 1116#15324: signal process started
 2024/02/05 13:17:24 [notice] 12672#14580: signal process started
+2024/02/05 13:29:55 [error] 7536#16308: *38 directory index of "C:/Users/USER/Documents/nginx/mysite/vegetables/" is forbidden, client: 127.0.0.1, server: , request: "GET /vegetables/ HTTP/1.1", host: "localhost:8080"
+2024/02/05 13:34:29 [notice] 9296#8956: signal process started
+2024/02/05 13:35:05 [error] 20112#12312: *44 CreateFile() "C:/Users/USER/Documents/nginx/mysite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/vegetables/"
+2024/02/05 13:35:17 [notice] 4576#9996: signal process started
+2024/02/05 13:35:20 [error] 18400#4664: *47 CreateFile() "C:/Users/USER/Documents/nginx/mysite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/vegetables/"
+2024/02/05 13:35:51 [notice] 11172#20464: signal process started
+2024/02/05 13:35:54 [error] 17928#10732: *50 CreateFile() "C:/Users/USER/Documents/nginx/mysite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/vegetables/"
+2024/02/05 13:41:44 [notice] 10644#15648: signal process started
