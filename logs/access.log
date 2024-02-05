@@ -38,3 +38,5 @@
 127.0.0.1 - - [05/Feb/2024:13:06:57 +0600] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36"
 127.0.0.1 - - [05/Feb/2024:13:14:52 +0600] "GET /fruits HTTP/1.1" 301 169 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36"
 127.0.0.1 - - [05/Feb/2024:13:14:52 +0600] "GET /fruits/ HTTP/1.1" 200 333 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36"
+127.0.0.1 - - [05/Feb/2024:13:17:36 +0600] "GET /carbs HTTP/1.1" 301 169 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36"
+127.0.0.1 - - [05/Feb/2024:13:17:36 +0600] "GET /carbs/ HTTP/1.1" 200 333 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36"
