@@ -1,0 +1,32 @@
+2024/02/01 11:59:21 [error] 17264#15852: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/02/04 15:37:44 [emerg] 2136#5928: no "events" section in configuration
+2024/02/04 16:27:55 [emerg] 15188#7528: invalid parameter "root" in C:\nginx/conf/nginx.conf:4
+2024/02/04 16:28:27 [emerg] 16264#16956: invalid parameter "root" in C:\nginx/conf/nginx.conf:4
+2024/02/04 16:28:31 [emerg] 19040#17656: invalid parameter "root" in C:\nginx/conf/nginx.conf:4
+2024/02/04 16:28:45 [notice] 8012#18540: signal process started
+2024/02/04 16:28:45 [error] 8012#18540: OpenEvent("Global\ngx_reload_13016") failed (2: The system cannot find the file specified)
+2024/02/04 16:29:01 [notice] 6576#10920: signal process started
+2024/02/04 16:29:01 [error] 6576#10920: OpenEvent("Global\ngx_reload_13016") failed (2: The system cannot find the file specified)
+2024/02/04 16:29:21 [notice] 11908#12232: signal process started
+2024/02/04 16:29:21 [error] 11908#12232: OpenEvent("Global\ngx_reload_13016") failed (2: The system cannot find the file specified)
+2024/02/04 16:29:37 [notice] 1888#9344: signal process started
+2024/02/04 16:29:37 [error] 1888#9344: OpenEvent("Global\ngx_reload_13016") failed (2: The system cannot find the file specified)
+2024/02/04 16:49:42 [notice] 2684#3096: signal process started
+2024/02/04 16:49:42 [error] 2684#3096: OpenEvent("Global\ngx_reload_13016") failed (2: The system cannot find the file specified)
+2024/02/05 11:16:40 [notice] 4852#120: signal process started
+2024/02/05 11:16:40 [error] 4852#120: OpenEvent("Global\ngx_reload_13016") failed (2: The system cannot find the file specified)
+2024/02/05 11:18:41 [notice] 15912#7144: signal process started
+2024/02/05 11:18:41 [error] 15912#7144: OpenEvent("Global\ngx_reload_13016") failed (2: The system cannot find the file specified)
+2024/02/05 11:20:25 [notice] 10020#6532: signal process started
+2024/02/05 11:20:43 [error] 19988#8892: *1 CreateFile() "C:/Users/USER/Documents/nginx/mysite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/02/05 12:59:08 [error] 19988#8892: *11 CreateFile() "C:/Users/USER/Documents/nginx/mysite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/02/05 12:59:11 [error] 19988#8892: *11 CreateFile() "C:/Users/USER/Documents/nginx/mysite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/02/05 13:00:16 [error] 19988#8892: *20 CreateFile() "C:/Users/USER/Documents/nginx/mysite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/02/05 13:01:21 [notice] 1648#14628: signal process started
+2024/02/05 13:01:29 [error] 16616#8420: *26 CreateFile() "C:/Users/USER/Documents/nginx/mysite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/02/05 13:01:30 [error] 16616#8420: *26 CreateFile() "C:/Users/USER/Documents/nginx/mysite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/02/05 13:06:46 [notice] 11032#20344: signal process started
+2024/02/05 13:06:55 [error] 1108#9584: *29 CreateFile() "C:/Users/USER/Documents/nginx/mysite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/02/05 13:06:57 [error] 1108#9584: *29 CreateFile() "C:/Users/USER/Documents/nginx/mysite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/02/05 13:14:26 [notice] 1116#15324: signal process started
+2024/02/05 13:17:24 [notice] 12672#14580: signal process started
