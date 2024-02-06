@@ -45,3 +45,12 @@
 2024/02/05 14:04:13 [notice] 19976#9060: signal process started
 2024/02/05 14:09:03 [error] 14252#12208: *65 CreateFile() "C:/Users/USER/Documents/nginx/mysite/number/3" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /number/3 HTTP/1.1", host: "localhost:8080"
 2024/02/05 14:09:08 [notice] 5052#7376: signal process started
+2024/02/05 14:09:11 [error] 6972#15516: *68 CreateFile() "C:/Users/USER/Documents/nginx/mysite/count/style" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /number/style.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/number/3"
+2024/02/06 12:23:57 [emerg] 640#16236: unexpected "}" in C:\nginx/conf/nginx.conf:10
+2024/02/06 12:24:55 [notice] 15992#16448: signal process started
+2024/02/06 12:24:55 [error] 15992#16448: OpenEvent("Global\ngx_reload_2704") failed (2: The system cannot find the file specified)
+2024/02/06 12:25:51 [notice] 3916#10156: signal process started
+2024/02/06 12:25:51 [error] 3916#10156: OpenEvent("Global\ngx_reload_2704") failed (2: The system cannot find the file specified)
+2024/02/06 12:27:29 [notice] 5916#7808: signal process started
+2024/02/06 12:27:29 [error] 5916#7808: OpenEvent("Global\ngx_reload_2704") failed (2: The system cannot find the file specified)
+2024/02/06 12:28:02 [notice] 6408#15076: signal process started

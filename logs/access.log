@@ -58,3 +58,5 @@
 127.0.0.1 - - [05/Feb/2024:14:04:32 +0600] "GET /crops HTTP/1.1" 307 171 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36"
 127.0.0.1 - - [05/Feb/2024:14:04:32 +0600] "GET /fruits/ HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36"
 127.0.0.1 - - [05/Feb/2024:14:09:03 +0600] "GET /number/3 HTTP/1.1" 404 555 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36"
+127.0.0.1 - - [05/Feb/2024:14:09:11 +0600] "GET /number/3 HTTP/1.1" 200 318 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36"
+127.0.0.1 - - [05/Feb/2024:14:09:11 +0600] "GET /number/style.css HTTP/1.1" 404 555 "http://localhost:8080/number/3" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36"
